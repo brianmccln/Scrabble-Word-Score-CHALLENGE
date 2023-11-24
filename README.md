@@ -1,6 +1,8 @@
-## Scrabble Word Scorer  
-This little app lets you enter a 2-15 letter word in the
-text input box and get its Scrabble score svalue.
+## Scrabble Word Scorer  - CHALLENGE
+This little app lets users enter a 2-15 letter word in the
+text input box and get its Scrabble score svalue.  
+This CHALLENGE version does NOT contain the JavaScript code.  
+This CHALLENGE version is for YOU to try to make work by coding the JS.
 
 ### Srabble Concept:
 In the game of Scrabble, each player has tiles.  
