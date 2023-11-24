@@ -25,7 +25,7 @@ function calcScrabbleScore() {
     // check if dictionary of 180K words has the entered word:
     if(!scrabbleDictionaryArr.includes(word)) {
         // give feedback and adjust font size to fit box
-        h2.textContent = "Word is not in Scrabble Dictionary!";
+        h2.textContent = "Entry is not in Scrabble Dictionary!";
         h2.style.fontSize = "16px";
         return;
     }
