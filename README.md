@@ -1,4 +1,24 @@
 ## Scrabble Word Scorer  
+This little app lets you enter a 2-15 letter word in the
+text input box and get its Scrabble score svalue.
+
+### Srabble Concept:
+In the game of Scrabble, each player has tiles.  
+Each tile has a letter, with a numeric value.  
+The most commonly used letters, such as A, E, O, N, S and T  have a value of just 1.  
+Less frequently used letters are worth more.  
+X is 8 and Z is 10, for example.  
+By spelling out words on the game board, players score  
+points equal to the value of their words.    
+So, if you spell ZOOS, you get 13 points.  
+Existing words can be used to help make new words,   
+crossword puzzle-style.  
+So, you could use one of the O's in ZOO to start spelling  
+a word that starts with "O", such as OXEN, which would be  
+worth 11 points.  
+There are more than 180,000 words in the Scrabble dictionary.  
+This includes plural versions of all nouns (zoo and zoos).  
+
 
 #### User Interface / User Experience:  
 - User types a word in the input box
