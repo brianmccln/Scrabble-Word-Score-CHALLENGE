@@ -23,8 +23,9 @@ This includes plural versions of all nouns (zoo and zoos).
 
 
 #### User Interface / User Experience:  
-- User types a word in the input box
-- Score appears below in the h2
+- User types a 2-15 letter word in the input box
+- User hits the Enter key
+- Numeric Scrabble score for that word appears below
 
 #### HTML : DONE  
 #### CSS : DONE  
