@@ -18,7 +18,7 @@ function calcScrabbleScore() {
     // check if the entered word exceeds 15 chars
     if(word.length > 15) {
         // give feedback and adjust font size to fit box
-        h2.textContent = "Word is too long!";
+        h2.textContent = "Entry is too long!";
         h2.style.fontSize = "20px";
         return;
     }
